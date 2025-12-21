@@ -1,7 +1,6 @@
 """
 Desafio 11: Crie um programa que leia largura e altura da parede, calcule a área 
 e a quantidade de tinta para pintar sabendo que cada litro de tinta pinta 2m²
-Requisitos - Aula 7
 """
 
 l = float(input('Digite a largura: '))
