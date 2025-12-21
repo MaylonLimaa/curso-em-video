@@ -4,7 +4,7 @@ Repositório dedicado aos meus estudos do **Mundo 1** de Python do curso ministr
 
 **📅 Registro de Estudo:**
 * **Início:** 17/12/2025
-* **Conclusão:** 🚧 *Em andamento*
+* **Conclusão:** 21/12/2025
 * **Aulas Abordadas:** 01 até 11
 * **Desafios Contidos:** 001 ao 035
 
