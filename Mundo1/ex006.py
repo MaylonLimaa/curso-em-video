@@ -1,6 +1,5 @@
 """
-Desafio 6 - Crie um algoritmo que leia um número e mostre seu dobro, seu triplo e sua raiz quadrada.
-Requisitos - Aula 7
+Desafio 6: Crie um algoritmo que leia um número e mostre seu dobro, seu triplo e sua raiz quadrada.
 """
 
 n = int(input('Digite um  número: '))

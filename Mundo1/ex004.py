@@ -1,6 +1,5 @@
 """
-Desafio 4 - Crie um programa que leia algo pelo teclado e faça a identificação de seus dados
-Requisitos: Aula 06
+Desafio 4: Crie um programa que leia algo pelo teclado e faça a identificação de seus dados
 """
 
 vlr = input('Digite alguma informação: ')

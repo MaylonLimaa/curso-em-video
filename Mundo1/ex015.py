@@ -1,7 +1,6 @@
 """
-Desafio 15 - Crie um algortimo que calcule o preço de aluguel de um carro
+Desafio 15: Crie um algortimo que calcule o preço de aluguel de um carro
 baseado em dias e km, onde cada dia custa 60 reais e cada km 15 centavos
-Requisitos: Aula 07
 """
 
 dist = int(input('Quantos km o carro percorreu? '))

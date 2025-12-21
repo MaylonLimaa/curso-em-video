@@ -1,6 +1,5 @@
 """
-Desafio 12 - Faça um algoritmo que leia um preço e mostre o preço com 5% de desconto.
-Requisitos - Aula 7
+Desafio 12: Faça um algoritmo que leia um preço e mostre o preço com 5% de desconto.
 """
 
 p = float(input('Digite o preço do produto: '))

@@ -1,6 +1,5 @@
 """
-Desafio 2 - Faça um programa que mostre o nome de uma pessoa e o exiba na tela
-Requisitos: Aula 04
+Desafio 2: Faça um programa que mostre o nome de uma pessoa e o exiba na tela
 """
 
 nome = input('Por gentileza, digite seu nome: ')

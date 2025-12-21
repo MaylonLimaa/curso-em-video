@@ -1,5 +1,5 @@
 """
-Desafio 14 - Escreva um programa que converta °C para °F
+Desafio 14: Escreva um programa que converta °C para °F
 Requistos: Aula 7
 """
 

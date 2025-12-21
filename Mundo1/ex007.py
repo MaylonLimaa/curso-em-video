@@ -1,6 +1,5 @@
 """
-Desafio 7 - Crie um programa que leia duas notas e mostre a média.
-Requisitos - Aula 7
+Desafio 7: Crie um programa que leia duas notas e mostre a média.
 """
 
 n1 = float(input('Digite a primeira nota: '))

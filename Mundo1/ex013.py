@@ -1,7 +1,6 @@
 """
-Desafio 13 - Faça um algoritmo que leia o salário de um funcionário 
+Desafio 13: Faça um algoritmo que leia o salário de um funcionário 
 e mostre o valor com reajuste de 15%
-Requisitos - Aula 7
 """
 
 sal = float(input('Qual o salário? '))

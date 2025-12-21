@@ -1,5 +1,5 @@
 """
-Desafio 23 - Faça um programa que leia um número de 0 a 9999.
+Desafio 23: Faça um programa que leia um número de 0 a 9999.
 Mostre na tela cada um dos dígitos separados.
 """
 num = int(input('Digite um número de 0 a 9999: '))

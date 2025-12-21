@@ -1,6 +1,5 @@
 """
-Desafio 5 - Crie um algoritmo que preça um número e exiba seu antecessor e sucessor
-Requisitos: Aula 7
+Desafio 5: Crie um algoritmo que preça um número e exiba seu antecessor e sucessor
 """
 
 n = int(input('Digite um número: '))

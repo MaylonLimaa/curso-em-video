@@ -1,5 +1,5 @@
 """
-Desafio 17 - Faça um programa que calcule o cateto da hipotenusa
+Desafio 17: Faça um programa que calcule o cateto da hipotenusa
 """
 
 import math

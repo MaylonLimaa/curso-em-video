@@ -1,6 +1,5 @@
 """
-Desafio 16 - Crie um programa que receba um número e mostre sua parte inteira
-Requisitos: Aula 8
+Desafio 16: Crie um programa que receba um número e mostre sua parte inteira
 """
 
 from math import floor

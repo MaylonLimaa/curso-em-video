@@ -1,6 +1,5 @@
 """
-Desafio 1 - Crie um programa que imprima "Olá, mundo" na tela
-Requisito Aula 04
+Desafio 1: Crie um programa que imprima "Olá, mundo" na tela
 """
 
 print('Olá, mundo!') # print é o comando usado para exibir uma mensagem no terminal

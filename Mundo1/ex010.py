@@ -1,6 +1,5 @@
 """
-Desafio 10 - Crie um programa que converta real em dolar.
-Requisitos - Aula 7
+Desafio 10: Crie um programa que converta real em dolar.
 
 Cotação considerada: R$ 3,27 = 1 Dolar
 """

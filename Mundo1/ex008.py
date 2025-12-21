@@ -1,6 +1,5 @@
 """
-Desafio 8 - Escreve um programa que leia um valor em metros e converta para mm e cm
-Requisitos - Aula 7
+Desafio 8: Escreve um programa que leia um valor em metros e converta para mm e cm
 """
 
 m = float(input('Digite o valor em metros: '))

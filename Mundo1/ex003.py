@@ -1,6 +1,5 @@
 """
-Desafio 3 - Crie um programa que receba dois números e exiba a soma deles na tela
-Requisitos: Aula 06
+Desafio 3: Crie um programa que receba dois números e exiba a soma deles na tela
 """
 
 n1 = float(input('Digite o 1° número da soma: '))

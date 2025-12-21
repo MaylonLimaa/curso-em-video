@@ -1,6 +1,5 @@
 """
-Desafio 9 - Faça um programa que leia um número e mostre sua tabuada.
-Requisitos - Aula 7
+Desafio 9: Faça um programa que leia um número e mostre sua tabuada.
 
 Para fins de praticidade e devido a prévio conhecimento, foi utilizado o loop for.
 """
