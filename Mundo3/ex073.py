@@ -31,7 +31,7 @@ print(times[-4:])
 
 print('Os times em ordem alfabética são:  ')
 for i, time in enumerate(sorted(times)):
-   print(f'{time},  ', end='')
+    print(f'{time},  ', end='')
 
 if 'Chapecoense' in times:
     posicao = times.index('Chapecoense')
