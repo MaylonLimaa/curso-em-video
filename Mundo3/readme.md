@@ -4,7 +4,7 @@ Repositório com os desafios finais do **Mundo 3** de Python (Curso em Vídeo). 
 
 **📅 Registro de Estudo:**
 * **Início:** 22/12/2025
-* **Conclusão:** 🚧 *Em andamento*
+* **Conclusão:** 25/12/2025
 * **Aulas Abordadas:** 16 até 23
 * **Desafios Contidos:** 072 ao 115
 
