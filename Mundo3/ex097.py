@@ -8,3 +8,11 @@ Saída:
 Olá, Mundo!
 ~~~~~~~~~~~
 """
+
+def escreva(texto):
+    print('~'*len(texto))
+    print(texto)
+    print('~'*len(texto))
+
+escreva('Olá, mundo!')
+escreva('Três pratos de trigo para três tigres tristes')
