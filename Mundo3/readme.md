@@ -3,8 +3,8 @@
 Repositório com os desafios finais do **Mundo 3** de Python (Curso em Vídeo). Foco em estruturas de dados robustas, funções e tratamento de erros.
 
 **📅 Registro de Estudo:**
-* **Início:** ??/??/????
-* **Conclusão:** 🚧 *Em andamento*
+* **Início:** 22/12/2025
+* **Conclusão:** 25/12/2025
 * **Aulas Abordadas:** 16 até 23
 * **Desafios Contidos:** 072 ao 115
 
