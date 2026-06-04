@@ -1,56 +1,54 @@
-# 📝 Gerenciador de Tarefas (Task Manager)
+# 🐍 Curso em Vídeo - Python: Programação Orientada a Objetos (POO)
 
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![POO](https://img.shields.io/badge/Paradigma-Orientado%20a%20Objetos-green)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)]()
+[![Curso em Vídeo](https://img.shields.io/badge/Curso-em%20Vídeo-blueviolet)](https://www.cursoemvideo.com/)
+[![Professor](https://img.shields.io/badge/Professor-Gustavo%20Guanabara-red)](https://youtube.com/cursoemvideo)
+[![Status](https://img.shields.io/badge/Status-Em%20Progresso-orange)]()
 
-O **Gerenciador de Tarefas** é um sistema de linha de comando (CLI) desenvolvido em Python para praticar e consolidar conceitos fundamentais de **Programação Orientada a Objetos (POO)**. O foco principal deste projeto foi aplicar os pilares do encapsulamento, separação de responsabilidades e a correta troca de mensagens entre objetos.
-
----
-
-## 🎯 Funcionalidades
-
-- [x] **Criar Tarefas**: Instanciação de tarefas com Título e Descrição.
-- [x] **Adicionar ao Gerenciador**: Armazenamento dinâmico de tarefas através de composição/associação.
-- [ ] **Iniciar Tarefa**: Alterar o estado interno da tarefa para `"Em andamento"`.
-- [ ] **Concluir Tarefa**: Marcar o estado como `"Concluída"` através de métodos controlados.
-- [ ] **Listar Tarefas**: Exibir no terminal o ID (índice da lista) e os detalhes de cada tarefa.
-- [ ] **Remover Tarefa**: Eliminar uma tarefa do sistema usando o seu ID.
+Repositório criado para concentrar todos os códigos teóricos, exercícios práticos e desafios da renomada playlist de **Programação Orientada a Objetos** do Curso em Vídeo, ministrada pelo professor Gustavo Guanabara.
 
 ---
 
-## 🧠 Conceitos de POO Aplicados
+## 📌 Estrutura do Repositório & Git Workflow
 
-Durante o desenvolvimento, as seguintes boas práticas de arquitetura de software foram aplicadas:
-
-1. **Encapsulamento Estrito**: O atributo `__status` da classe `Tarefa` e `__tarefas` do `Gerenciador` foram definidos como privados. O mundo externo não altera estes dados diretamente.
-2. **Troca de Mensagens (Message Passing)**: O `Gerenciador` não invade o escopo da `Tarefa`. Ele apenas envia um pedido (chama um método público da tarefa) para que ela altere o seu próprio estado.
-3. **Uso de Properties (`@property`)**: Implementação de getters controlados em Python para expor dados de forma segura, eliminando a necessidade de setters desnecessários que quebrariam a lógica de negócio.
+Para simular as boas práticas do mercado de trabalho e manter o histórico organizado:
+- `main`: Linha do tempo principal. Contém os códigos consolidados e revisados após a conclusão dos módulos.
+- `Mundo-4`: Branch de desenvolvimento ativa onde realizo os exercícios das aulas. Ao fim do curso, um `merge` será feito para unificar o progresso.
 
 ---
 
-## 🏗️ Estrutura das Classes
+## 🧠 Cronograma de Aprendizado (Baseado na Playlist)
 
-O projeto está dividido em duas entidades principais que se comunicam de forma harmoniosa:
+Abaixo está o índice de progressão das aulas e conceitos abordados no curso. Atualizo os status conforme avanço nos vídeos!
 
-### 1. Classe `Tarefa`
-Responsável por moldar as características e comportamentos de uma tarefa individual.
-- **Atributos**: `titulo` (público), `descricao` (público), `__status` (privado).
-- **Estados Possíveis**: `"Pendente"` (padrão), `"Em andamento"`, `"Concluída"`.
-
-### 2. Classe `Gerenciador`
-O maestro do sistema, responsável por coordenar a coleção de tarefas.
-- **Atributos**: `__tarefas` (lista privada).
-- **Métodos**: `addTarefa()`, `iniciarTarefa()`, `concluirTarefa()`, `removerTarefa()`.
+| Aula | Conteúdo / Conceito Chave | Status |
+| :---: | :--- | :---: |
+| **01a** | O que é Objeto? (Teoria dos Fundamentos) | ✅ Concluído |
+| **02a** | Criando Classes e Objetos em Python (Prática) | ✅ Concluído |
+| **03a** | Configurando Visibilidade (Público, Privado e Protegido) | ✅ Concluído |
+| **04a** | Métodos Especiais: Construtores (`__init__`), Getters e Setters | ✅ Concluído |
+| **05a** | Exemplo Prático: Criando uma Classe Conta Bancária | 🔄 Em andamento |
+| **06a** | Pilares da POO: Encapsulamento (Interfaces e Métodos Abstratos) | ❌ Pendente |
+| **07a** | Relacionamento entre Classes: Agregação (Ultra Emoji Combat) | ❌ Pendente |
+| **08a** | Relacionamento de Agregação (Continuação do Projeto) | ❌ Pendente |
+| **09a** | Exercício Prático: Herança e Associação de Classes | ❌ Pendente |
+| **10a** | Pilares da POO: Herança (Conceitos de Mãe/Filha, Progenitora/Descendente) | ❌ Pendente |
+| **11a** | Herança na Prática (Classes Abstratas, Árvore de Herança) | ❌ Pendente |
+| **12a** | Pilares da POO: Polimorfismo em Python (Sobreposição) | ❌ Pendente |
+| **13a** | Polimorfismo de Sobrecarga (Adaptações no Python) | ❌ Pendente |
+| **14a** | Projeto Final POO Python: Parte 1 (Gafanhoto, Vídeo e Usuário) | ❌ Pendente |
+| **15a** | Projeto Final POO Python: Parte 2 (Finalização do Sistema) | ❌ Pendente |
 
 ---
 
-## 🛠️ Como Executar o Projeto
+## 🛠️ Tecnologias e Ferramentas
 
-### Pré-requisitos
-Ter o Python 3.10 ou superior instalado na tua máquina.
+- **Python 3.x**
+- **VS Code** (Ambiente de Desenvolvimento)
+- **Git & GitHub** (Controle de Versão utilizando fluxo de Branches)
 
-### Passo a Passo
-1. Clona este repositório para a tua máquina local:
-   ```bash
-   git clone [https://github.com/MaylonLimaa/curso-em-video-python.git](https://github.com/MaylonLimaa/curso-em-video-python.git)
+---
+
+## 👤 Autor
+
+Desenvolvido com foco e disciplina por **Maylon Lima**.
+- GitHub: [@MaylonLimaa](https://github.com/MaylonLimaa)
