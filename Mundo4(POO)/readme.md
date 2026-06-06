@@ -29,7 +29,7 @@ Abaixo está o índice de progressão das aulas e conceitos abordados no curso. 
 | **03** | Configurando Visibilidade (Público, Privado e Protegido) | ✅ Concluído |
 | **04** | Python Orientado a Objetos: Criando Classes e Objetos na Prática - Curso Python POO: Aula 04 | ✅ Concluído |
 | **05** | Melhorando Classes e Criando uma Conta Bancária na Prática - Curso Python POO: Aula 05 | ✅ Concluído |
-| **05.5** | Rich no Python: Cores, Emojis, Tabelas e Debug Muito Mais Bonitos - Curso Python POO: Aula Extra | 🔄 Em andamento |
+| **05.5** | Rich no Python: Cores, Emojis, Tabelas e Debug Muito Mais Bonitos - Curso Python POO: Aula Extra | ✅ Concluído |
 | **06** | Aprenda Programação Orientada a Objetos com Desafios em Python - Curso Python POO: Aula 06 | ✅ Concluído |
 | **06.5** | Realizando os Desafios | 🔄 Em andamento |
 | **07** | Herança em Python explicada como nunca fizeram - Curso Python POO: Aula 7 | ❌ Pendente |
