@@ -71,6 +71,6 @@ a1 = Aluno('Maylon', 22, 'Eng de Software', 'T001ES')
 p1 = Professor('Claúdio', 47, 'Programação Web', 'Mestrado')
 f1 = Funcionario('Ana', 30, 'Diretora', 'ADM')
 
-a1.fazer_aniversario()
-print(a1.idade)
+a1.fazer_aniversario() # Mostra uso do método herdado
+print(a1.idade) # Print do atributo
 a1.fazer_matricula()

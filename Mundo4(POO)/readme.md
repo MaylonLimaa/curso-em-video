@@ -33,8 +33,9 @@ Abaixo está o índice de progressão das aulas e conceitos abordados no curso. 
 | **06** | Aprenda Programação Orientada a Objetos com Desafios em Python - Curso Python POO: Aula 06 | ✅ Concluído |
 | **06.5** | Realizando os Desafios | ✅ Concluído  |
 | **07** | Herança em Python explicada como nunca fizeram - Curso Python POO: Aula 7 | ✅ Concluído |
-| **08** | Abstração um dos Pilares Centrais da Programação Orientada a Objetos- Curso Python POO: Aula 8 | 🔄 Em andamento |
-| **09** | Desafios de Herança, Abstração e Classes - Curso Python POO: Aula 9 | ❌ Pendente |
+| **08** | Abstração um dos Pilares Centrais da Programação Orientada a Objetos- Curso Python POO: Aula 8 | ✅ Concluído|
+| **09** | Desafios de Herança, Abstração e Classes - Curso Python POO: Aula 9 | ✅ Concluído |
+| **09.5** | Realizando os Desafios | 🔄 Em andamento  |
 | **10** | Encapsulamento: público, protegido e privado (Parte 1) - Curso Python POO: Aula 10 | ❌ Pendente |
 | **11** | ????? | ❌ Pendente |
 
